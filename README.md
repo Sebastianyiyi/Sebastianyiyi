@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 Estudiante de Ingeniería de Software | Desarrollador de Software
 📍 Ambato, Ecuador
-🌐 [Sebastianyiyi](https://github.com/Sebastianyiyi)   
+🌐 [Sebastianyiyi](https://sebastianyiyi.github.io/)   
 
 ---
 
